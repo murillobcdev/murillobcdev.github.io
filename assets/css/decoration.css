@@ -6,10 +6,6 @@
     box-sizing: border-box;
 }
 
-.modal{
-    background-color:#FFF;
-}
-
 #banner {
     height: 550px;
     color: var(--bs-white);
