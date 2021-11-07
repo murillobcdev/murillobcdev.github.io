@@ -171,11 +171,16 @@
                         
                     </div>
                     <div class="modal-body">
-                        <form action="https://formsubmit.co/murillobc@outlook.com" method="POST">
-                            <input type="text" name="name" required>
-                            <input type="email" name="email" required>
-                            <button type="submit" class="btn btn-primary">Send</button>
-                       </form>
+                        <form class="d-flex flex-column justify-content-center align-items-center"
+                        action="https://formsubmit.co/murillobc@outlook.com" method="POST">
+                        <label> E-mail </label>
+                        <input type="email" name="email" placeholder="E-mail" required>
+                        <label> Subject </label>
+                        <input type="text" name="text" placeholder="Enter subject" required>
+                        <label> Write me a message </label>
+                        <input type="text" name="text" required>
+                        <button type="submit" class="btn btn-primary">Send</button>
+                    </form>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
