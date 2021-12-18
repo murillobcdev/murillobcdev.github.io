@@ -80,6 +80,7 @@
 
 .techText {
     color: var(--bs-gray-200);
+    background-color:rgba(0, 0, 0, 2.0);
 }
 
 .techtext-u {
