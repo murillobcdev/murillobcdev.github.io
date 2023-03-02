@@ -1,158 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,400;1,200&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,400;1,200&display=swap");
+
 * {
-    font-family: 'Source Sans Pro', sans-serif;
-    padding: 0px;
-    margin: 0px;
-    box-sizing: border-box;
+  font-family: "Source Sans Pro", sans-serif;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
 }
 
-#banner {
-    height: 550px;
-    color: var(--bs-white);
-    background-image: url('bannerii.png');
-    background-attachment: fixed;
-    background-size: cover;
-    height: calc(100vh - 500px);
-}
-
-.bannerTitle {
-    font-size: 2.25em;
-}
-
-.texto {
-    height: 100%;
-}
-
-/* FINAL BANNER */
-
-.tracinho {
-    width: 100px;
-    height: 1px;
-    background-color: var(--bs-gray-900);
-}
-
-#sobre #eu {
-    object-fit: cover;
-}
-
-.aboutTop {
-    font-weight: 600;
-    font-size: 1.4em;
-    color:var(--bs-gray-700);
-}
-
-.aboutBottom {
-    font-size: 1em;
-    color:var(--bs-gray-600);
-}
-
-/* FINAL SOBRE */
-
-#tecnologias, #contato {
-    background-image: url('banner.png');
-    background-attachment: fixed;
-    background-position: bottom;
-}
-
-.icons li {
-    display: inline-block;
-    padding: 2.5em;
-    text-align: center;
-}
-
-.iconSpan {
-    transform: rotate( 45deg);
-    border-radius: 4px;
-    border: solid 1px rgb(255, 255, 255);
-    display: inline-block;
-    height: 8em;
-    width: 8em;
-    line-height: 8em;
-    margin: 0;
-    text-align: center;
-    background-color: rgba(255, 255, 255, 0.1);
-}
-
-.iconSpan img {
-    max-width: 50px ;
-    transform: rotate(-45deg);
-}
-
-.techText {
-    color: var(--bs-gray-200);
-    background-color:rgba(0, 0, 0, 0.2);
-}
-
-.techtext-u {
-    font-size: 25px;
-    font-weight:600;
-}
-
-.techtext-d {
-    font-size: 14px;
-}
-
-.tracinhoDark {
-    width: 100px;
-    height: 1px;
-    background-color: var(--bs-white);
-}
-.iconHide{
-    display:none;
-}
-/* FIM DE TECNOLOGIAS */
-
-#projetos {
-    color: var(--bs-gray-700);
-}
-
-.projectTitle {
-    font-size: 25px;
-}
-
-.projectDesc {
-    font-size: 15px;
-}
-
-#projetos .projectDescs {
-    font-size: 13px;
-}
-
-/* FIM PROJETOS */
-
-#contato {
-    color: var(--bs-white);
-}
-
-/* FIM DO CONTATO E MODAL */
-
-.footer {
-    color: var(--bs-gray-900);
-    background-image: url('bannerii.png');
-    background-attachment: fixed;
-    background-position: bottom;
-}
-
-.footer .social img {
-    width: 20px;
-}
-
-.footer .creditos {
-    font-size: 10px;
-}
-
-
-/*Responsividade Extra*/ 
-
-@media (max-width:1024px){
-    .icons{
-        display:none;
-    }
-    .iconHide{
-        display:flex;
-        margin-top:15px;
-    }
-    .iconHide li img{
-        width:10vw;
-    }
+main {
+  background-color: #222;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  flex-flow: column;
 }
