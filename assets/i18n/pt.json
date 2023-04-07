@@ -1,51 +1,21 @@
 {
-  "BREADCRUMB": {
-    "HOME": "Home",
-    "WHERE-TO-FIND": "Where to find"
-  },
-  "POLITICA_LGPD": {
-    "DESCRIPTION": "We use cookies on our website to provide you with a more relevant experience and to recommend content of interest to you. By clicking 'Accept', you agree to the use of all cookies. Read our Privacy and Data Security Policy.",
-    "TXT_LINK": "Click here",
-    "LINK": "https://formica-api.s3.sa-east-1.amazonaws.com/files/policy_privacy_en.pdf",
-    "DIMISS": "Do not accept",
-    "SUCCESS": "Accept"
-  },
-  "CONTACTUS": {
-    "TITLE": "Contact",
-    "DESCRIPTION": "Do you need to talk to us? Here you can send us a message and our team will return soon.",
-    "TXT-POLICY": "I have read and agree to the <a href='https://formica-api.s3.sa-east-1.amazonaws.com/files/policy_privacy_en.pdf' target='_blank'>Privacy Policy</a>.",
-    "FORM": {
-      "INPUTNAME": "Name",
-      "INPUTEMAIL": "Email",
-      "INPUTPHONE": "Phone Number",
-      "INPUTOCCUPATION": "Occupation",
-      "INPUTSUBJECT": "Subject",
-      "INPUTZIPCODE": "Postal Code",
-      "INPUTADDRESS": "Address Line 1",
-      "INPUTCOUNTRY": "Country",
-      "INPUTNUMBER": "Number",
-      "INPUTCOMPLEMENT": "Address Line 2",
-      "INPUTSTATE": "State/Province",
-      "INPUTCITY": "City",
-      "SELECT": "Select...",
-      "BUTTON": "send",
-      "INPUTMENSAGEM": "Message",
-      "ADDRESS": "ADDRESS"
-    },
-    "ERRORS": {
-      "SELECT": "Select the field",
-      "COMPLETE": "Fill in the field",
-      "EMAIL": "Fill in a valid email"
-    },
-    "SUCCESS": {
-      "TITLE": "Message sent successfully!",
-      "MESSAGE": "We'll be back in touch soon. Thank you!"
-    }
-  },
-  "PAGE-NOT-FOUND": {
-    "TITLE": "Page not found",
-    "DESC": "Sorry, this page was not found on this server. It must have been removed or you must have typed the address incorrectly.",
-    "BUTTON": "Back to home page"
-  },
-  "TRANSLATED_ROUTES": {}
+  "MY_PROFILE": {
+    "SUB": "masculino, Curitiba, Brasil",
+    "FRIEND": "+ amigo",
+    "PROFILE": "perfil",
+    "MESSAGES": "recados",
+    "PHOTOS": "fotos",
+    "VIDEOS": "vídeos",
+    "DEPOSITIONS": "depoimentos",
+    "FANS": "fãs",
+    "RELIABLE": "confiável",
+    "COOL": "legal",
+    "SEXY": "sexy",
+    "SOCIAL": "social",
+    "ABOUT_PROJECT": "sobre este projeto",
+    "WHO_IS_ME": "Quem sou eu",
+    "ABOUT_PROJECT_TEXT": "<p>Para desenvolver este portfólio, utilizei <b>HTML</b>, <b>CSS</b>, <b>Angular</b>, <b>Bootstrap</b> e <b>NodeJS</b>.</p><p> A inspiração para este projeto foi a tela em que nós, desenvolvedores, passamos boa parte do dia encarando para resolver nossos problemas e desenvolver soluções, a nossa <b>área de trabalho.</b></p><p>O layout remete ao famoso e extinto <b>Orkut</b>, uma rede social que me traz tanta nostalgia e me apresentou pessoas maravilhosas que até hoje estão na minha vida.</p><p>E por fim, um pouco do meu lado pessoal também é mostrado aqui, os <b>jogos</b> que tenho jogado recentemente são adicionados <b>dinamicamente</b> ao meu portfólio através do consumo da <b>Steam API</b>.</p>",
+    "MADE_WITH_LOVE": "Feitos com ❤️",
+    "TECHS": "Tecnologias 👨‍💻"
+  }
 }
