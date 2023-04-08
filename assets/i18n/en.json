@@ -1,0 +1,21 @@
+{
+  "MY_PROFILE": {
+    "SUB": "male, Curitiba, Brasil",
+    "FRIEND": "+ friend",
+    "PROFILE": "profile",
+    "MESSAGES": "messages",
+    "PHOTOS": "photos",
+    "VIDEOS": "videos",
+    "DEPOSITIONS": "depositions",
+    "FANS": "fans",
+    "RELIABLE": "reliable",
+    "COOL": "cool",
+    "SEXY": "sexy",
+    "SOCIAL": "social",
+    "ABOUT_PROJECT": "about this project",
+    "WHO_IS_ME": "Who am I",
+    "ABOUT_PROJECT_TEXT": "<p>To develop this portfolio, I used <b>HTML</b>, <b>CSS</b>, <b>Angular</b>, <b>Bootstrap</b> and <b>NodeJS.</b></p><p>The inspiration for this project was the screen on which we, the developers, spend much of the day facing to solve our problems and develop solutions, our <b>desktop.</b></p><p>The layout refers to the famous and extinct <b>Orkut</b>, a social network that brings me so much nostalgia and introduced me to wonderful people who are still in my life today.</p><p>And finally, a bit of my personal side is also shown here, the <b>games</b> I've been playing recently are <b>dynamically</b> added to my portfolio through the consumption of the <b>Steam API.</b></p>",
+    "MADE_WITH_LOVE": "Made with ❤️",
+    "TECHS": "Techs 👨‍💻"
+  }
+}

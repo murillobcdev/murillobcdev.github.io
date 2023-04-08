@@ -1,0 +1,21 @@
+{
+  "MY_PROFILE": {
+    "SUB": "masculino, Curitiba, Brasil",
+    "FRIEND": "+ amigo",
+    "PROFILE": "perfil",
+    "MESSAGES": "recados",
+    "PHOTOS": "fotos",
+    "VIDEOS": "vídeos",
+    "DEPOSITIONS": "depoimentos",
+    "FANS": "fãs",
+    "RELIABLE": "confiável",
+    "COOL": "legal",
+    "SEXY": "sexy",
+    "SOCIAL": "social",
+    "ABOUT_PROJECT": "sobre este projeto",
+    "WHO_IS_ME": "Quem sou eu",
+    "ABOUT_PROJECT_TEXT": "<p>Para desenvolver este portfólio, utilizei <b>HTML</b>, <b>CSS</b>, <b>Angular</b>, <b>Bootstrap</b> e <b>NodeJS</b>.</p><p> A inspiração para este projeto foi a tela em que nós, desenvolvedores, passamos boa parte do dia encarando para resolver nossos problemas e desenvolver soluções, a nossa <b>área de trabalho.</b></p><p>O layout remete ao famoso e extinto <b>Orkut</b>, uma rede social que me traz tanta nostalgia e me apresentou pessoas maravilhosas que até hoje estão na minha vida.</p><p>E por fim, um pouco do meu lado pessoal também é mostrado aqui, os <b>jogos</b> que tenho jogado recentemente são adicionados <b>dinamicamente</b> ao meu portfólio através do consumo da <b>Steam API</b>.</p>",
+    "MADE_WITH_LOVE": "Feitos com ❤️",
+    "TECHS": "Tecnologias 👨‍💻"
+  }
+}
