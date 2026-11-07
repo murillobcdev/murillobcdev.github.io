@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/1l-8-v8la4g79.css","style"]
+:HL["/assets/font-face/style.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"JdRY6sAJfoyz6f3zsmlpL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

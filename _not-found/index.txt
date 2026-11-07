@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/3qfy96eoyh-ek.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+8:I[97367,["$2"],"OutletBoundary"]
+9:"$Sreact.suspense"
+b:"ViewportBoundary"
+c:I[97367,["$2"],"$b"]
+e:"MetadataBoundary"
+f:I[97367,["$2"],"$e"]
+11:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/1l-8-v8la4g79.css","style"]
+:HL["/assets/font-face/style.css","style"]
+6:X
+7:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"not-found","children":[["$","h1",null,{"children":"404"}],["$","p",null,{"children":"Página não encontrada / Page not found"}],["$","a",null,{"href":"/","children":"Voltar / Go home"}]]}],null,["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],"p":false,"v":null}}]]
+5:[["children",{"s":"/_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$6"},"c":"$Q7"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1l-8-v8la4g79.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3qfy96eoyh-ek.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"pt-BR","children":[["$","head",null,{"children":["$","link",null,{"rel":"stylesheet","href":"/assets/font-face/style.css"}]}],["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"not-found","children":[["$","h1",null,{"children":"404"}],["$","p",null,{"children":"Página não encontrada / Page not found"}],["$","a",null,{"href":"/","children":"Voltar / Go home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],"p":false,"v":null},"c":"$Q5"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$Lc",null,{"children":"$Ld"}],["$","$Lf",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$9",null,{"name":"Next.Metadata","children":"$L10"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$11",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1l-8-v8la4g79.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"JdRY6sAJfoyz6f3zsmlpL"}
+6:C
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+10:[["$","title","0",{"children":"Murillo Brito - Desenvolvedor front end"}],["$","meta","1",{"name":"description","content":"Olá, este é meu portfólio! Sou desenvolvedor front end, apaixonado por tecnologia e programação."}],["$","meta","2",{"property":"og:title","content":"Murillo Brito - Desenvolvedor front end"}],["$","meta","3",{"property":"og:description","content":"Olá, este é meu portfólio! Sou desenvolvedor front end, apaixonado por tecnologia e programação."}],["$","meta","4",{"property":"og:image","content":"https://murillobrito.com.br/assets/images/shared.png"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","7",{"name":"twitter:title","content":"Murillo Brito - Desenvolvedor front end"}],["$","meta","8",{"name":"twitter:description","content":"Olá, este é meu portfólio! Sou desenvolvedor front end, apaixonado por tecnologia e programação."}],["$","meta","9",{"name":"twitter:image","content":"https://murillobrito.com.br/assets/images/shared.png"}]]
