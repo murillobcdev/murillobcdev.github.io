@@ -1,4 +1,5 @@
-:HL["/_next/static/chunks/1l-8-v8la4g79.css","style"]
+:HL["/_next/static/chunks/2xaorjvyzv45u.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap","style"]
 :HL["/assets/font-face/style.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"JdRY6sAJfoyz6f3zsmlpL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Vet_u_A9tdsVVgYQSzwhg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
